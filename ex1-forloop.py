@@ -18,3 +18,7 @@ print("Added 2nd from techteam1 on GitHub")
 #.............................................
 print("Added this line from user-2 account")
 x = 100
+#.............................................
+print("Added this line from user-2 account")
+b = 700
+c = 900
