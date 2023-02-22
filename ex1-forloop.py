@@ -7,7 +7,12 @@ def count_to_n(n = 10):
 
 print("going to count {} . . .".format(n))
 count_to_n(n)
-#.............................................#
+#.............................................
 print("first modification for secoond commit")
-#.............................................#
+#.............................................
 print("Added this line of code from druba from git terminal")
+#.............................................
+print("Added 1st from techteam1 on GitHub")
+#.............................................
+print("Added 2nd from techteam1 on GitHub")
+
